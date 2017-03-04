@@ -1,0 +1,10 @@
+{
+  "name": "raml-parser-web-usage-example",
+  "version": "0.0.0",
+  "dependencies": {
+    "raml-1-parser": "*"
+  },
+  "devDependencies": {
+    "webpack": "*"
+  }
+}
